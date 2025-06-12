@@ -4,6 +4,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import  LinearRegression
 from sklearn.metrics import mean_squared_error,r2_score
 from sklearn.ensemble import RandomForestRegressor
+import matplotlib.pyplot as plt
+from sympy.printing.pretty.pretty_symbology import line_width
 
 #LOAD DATA
 df=pd.read_csv('delaney.csv')
@@ -37,7 +39,7 @@ lr_result.columns=['Method','Training MSE','Training R2','Test MSE','Test R2']
 
 
 #RANDOM FOREST
-rf=RandomForestRegressor()
+rf=RandomForestRegressor(max_depth=2,random_state=100)
 rf.fit(X_train,y_train)
 #RF PREDICTION
 y_rf_train_pred=rf.predict(X_train)
@@ -50,5 +52,19 @@ rf_test_mse=mean_squared_error(y_test,y_rf_test_pred)*100
 rf_test_r2=r2_score(y_test,y_rf_test_pred)*100
 rf_result=pd.DataFrame(["Random Forest",rf_train_mse,rf_train_r2,rf_test_mse,rf_test_r2]).transpose()
 rf_result.columns=['Method','Training MSE','Training R2','Test MSE','Test R2']
-print('Random forest: \n',rf_result)
-print('Linear regression \n',lr_result)
+#COMPARISON
+df_models=pd.concat([rf_result,lr_result],axis=0)
+df_models.reset_index(drop=True)
+
+#VISUALIZATION
+
+plt.figure(figsize=(5,5))
+plt.scatter(x=y_train,y=y_lr_train_pred,color='blue',alpha=0.5)
+
+z=np.polyfit(y_train,y_lr_train_pred,1)
+p=np.poly1d(z)
+
+plt.plot(y_train,p(y_train),'#F8766D',linewidth=2)
+plt.ylabel("Predict LogS")
+plt.xlabel("Experimental logS")
+plt.show()
