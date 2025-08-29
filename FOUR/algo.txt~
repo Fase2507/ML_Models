@@ -1,0 +1,57 @@
+hidden_size = 512
+
+🧠 B. Use nn.BCEWithLogitsLoss() instead of Sigmoid + BCELoss:
+ Replace final Sigmoid layer in D:
+nn.Linear(hidden_size, 1)  # No Sigmoid
+# Replace loss function:
+criterion = nn.BCEWithLogitsLoss()
+
+🚀 A. Normalize real/fake labels with noise:
+real_labels = torch.ones(images.size(0), 1).uniform_(0.8, 1.0).to(device)
+fake_labels = torch.zeros(images.size(0), 1).uniform_(0.0, 0.2).to(device)
+
+🧊 B. Use weight initialization:
+def weights_init(m):
+    if isinstance(m, nn.Linear):
+        nn.init.xavier_uniform_(m.weight)
+        if m.bias is not None:
+            nn.init.zeros_(m.bias)
+
+D.apply(weights_init)
+G.apply(weights_init)
+
+✅ 5. GAN-Specific Improvements
+🎛 A. Try using convolutional GAN (DCGAN):
+Your model is fully connected, which is not ideal for image data. Try nn.Conv2d-based D and nn.ConvTranspose2d-based G when you're comfortable.
+
+
+✅ 6. Monitoring & Debugging Tips
+plt.plot(d_losses, label='D Loss')
+plt.plot(g_losses, label='G Loss')
+plt.legend()
+plt.title("Losses")
+plt.show()
+
+
+🖼 B. Animate outputs:
+You can save outputs across epochs and use imageio or matplotlib.animation to create a GIF.
+
+__--
+fake_images.view(-1, 3, 240, 320)
+images = images.view(images.size(0), -1)
+images = images.reshape(images.size(0), -1)
+
+
+
+| Area          | Suggestion                                                |
+| ------------- | --------------------------------------------------------- |
+| Data          | Fix ImageFolder directory structure                       |
+| Model         | Increase `hidden_size` to at least 256–512                |
+| Model         | Use `BCEWithLogitsLoss()` and remove `Sigmoid()` in `D`   |
+| Training      | Add label smoothing (e.g., 0.9 instead of 1.0)            |
+| Training      | Use Xavier initialization for `Linear` layers             |
+| GAN           | Consider convolutional GAN (DCGAN) for better performance |
+| Visualization | Plot D/G loss curves                                      |
+| Clean-up      | Remove unused imports and repetitive code                 |
+
+
