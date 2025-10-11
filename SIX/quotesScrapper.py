@@ -14,7 +14,7 @@ START_URL = f"{BASE_URL}/"
 #oturum acma istegi by request
 session=requests.Session()
 session.headers.update({
-    "User-Agent":"Educatioanl Scraper"
+    "User-Agent":"Educatioanal Scraper"
 })
 
 DEFAULT_TIMEOUT = 10

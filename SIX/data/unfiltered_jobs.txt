@@ -299,3 +299,953 @@
                      Location: Redmond,
                      More info: https://m.timesjobs.com/mobile/job-detail/senior-software-engineer-microsoft-india-pvt-ltd-redmond-5-to-8-yrs-jobid-drpouX1eyUVzpSvf__PLUS__uAgZw==&bc=+&sequence=25
                  
+                     Company name: Team Management Services,
+                     Required skills: java | jboss | python | unix | devops,
+                     Puslish date: 24h,
+                     Location: Mumbai,  Navi Mumbai,  Thane,
+                     More info: https://m.timesjobs.com/mobile/job-detail/senior-implementation-specialist-team-management-services-mumbai-navi-mumbai-thane-7-to-12-yrs-jobid-Axvkqf1PPiFzpSvf__PLUS__uAgZw==&bc=+&sequence=1
+                 
+                     Company name: LTIMindtree Ltd.,
+                     Required skills: solidworks | python scripting,
+                     Puslish date: 24h,
+                     Location: Delhi,  Delhi/NCR,  Kolkata,  Noida/Greater Noida,  Coimbatore,
+                     More info: https://m.timesjobs.com/mobile/job-detail/python-developer-ltimindtree-ltd-delhi-delhi-ncr-kolkata-noida-greater-noida-coimbatore-3-to-6-yrs-jobid-h9RDXUWeexVzpSvf__PLUS__uAgZw==&bc=+&sequence=2
+                 
+                     Company name: LTIMindtree Ltd.,
+                     Required skills: solidworks | python scripting,
+                     Puslish date: 24h,
+                     Location: Bengaluru / Bangalore,  Chennai,  Hyderabad/Secunderabad,  Mumbai,  Pune,
+                     More info: https://m.timesjobs.com/mobile/job-detail/python-developer-ltimindtree-ltd-bengaluru-bangalore-chennai-hyderabad-secunderabad-mumbai-pune-3-to-6-yrs-jobid-DnueTiAmzX5zpSvf__PLUS__uAgZw==&bc=+&sequence=3
+                 
+                     Company name: LTIMindtree Ltd.,
+                     Required skills: python developer | microsoft office,
+                     Puslish date: 24h,
+                     Location: Bengaluru / Bangalore,  Chennai,  Hyderabad/Secunderabad,  Mumbai,  Pune,
+                     More info: https://m.timesjobs.com/mobile/job-detail/python-developer-ltimindtree-ltd-bengaluru-bangalore-chennai-hyderabad-secunderabad-mumbai-pune-3-to-6-yrs-jobid-tpcc9qIdhYBzpSvf__PLUS__uAgZw==&bc=+&sequence=4
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: software development | c# programming | regulatory compliance | ci / cd practices | problem solving | xml | github | javascript | .net | software developer | soap | sql | security | fx | mobile | infrastructure,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/technical-lead-software-developer-at-fiserv-inc-fiserv-ce-pvt-ltd-12-to-15-yrs-jobid-lhAFZcJy8qZzpSvf__PLUS__uAgZw==&bc=+&sequence=5
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: splunk query optimization | monitoring dashboard development | performance engineering practices | software development scripting | onboarding cloud applications | information technology | rest | mobile,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/systems-engineer-advisor-ii-splunk-at-fiserv-inc-fiserv-ce-pvt-ltd-6-to-10-yrs-jobid-zWu4NucgPTdzpSvf__PLUS__uAgZw==&bc=+&sequence=6
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: api integrations | project management | technical troubleshooting | client liaison | web services | sql | java | html | perl | c# | mobile | ruby | php | soap,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/api-integrations-analyst-at-fiserv-inc-fiserv-ce-pvt-ltd-3-to-5-yrs-jobid-1opNY1ExtJhzpSvf__PLUS__uAgZw==&bc=+&sequence=7
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: cloud architecture | net development | sql server management | microservices transition | containerization technologies | c# | mobile | microsoft azure | infrastructure | .net,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/senior-solutions-architect-net-azure-at-fiserv-inc-fiserv-ce-pvt-ltd-10-to-13-yrs-jobid-lrEIti__PLUS__Jaj5zpSvf__PLUS__uAgZw==&bc=+&sequence=8
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: software architecture | technology integration | software solution design | cloud platforms | microservices architecture | c# | python | mobile | docker | security | java,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/software-architecture-advisor-ii-at-fiserv-inc-fiserv-ce-pvt-ltd-6-to-9-yrs-jobid-Vt7g35OMf4ZzpSvf__PLUS__uAgZw==&bc=+&sequence=9
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: software quality assurance | automation testing | performance testing | agile methodologies | test planning | continuous integration | software testing | mobile | test cases | qa | testing tools | security testing,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/technical-quality-assurance-professional-ii-at-fiserv-inc-fiserv-ce-pvt-ltd-3-to-5-yrs-jobid-oFsGRPQh77ZzpSvf__PLUS__uAgZw==&bc=+&sequence=10
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: container platforms | ci / cd pipelines | automation techniques | programming languages | networking concepts | devops | linux | python | github | mobile | access management | windows | identity management | infrastructure,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/kubernetes-container-platform-engineer-at-fiserv-inc-fiserv-ce-pvt-ltd-5-to-8-yrs-jobid-AtfaHDBGCtBzpSvf__PLUS__uAgZw==&bc=+&sequence=11
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: net development | unit testing | agile methodologies | debugging practices | security vulnerabilities | jquery | sql | xml | devops | mvc | c# | .net developer | mobile | javascript | visual studio,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/tech-lead-software-development-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-7-to-10-yrs-jobid-6KZZgjT2SIdzpSvf__PLUS__uAgZw==&bc=+&sequence=12
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: python scripting | ci / cd integration | automation solutions | ansible proficiency | monitoring tools | information technology | devops | software engineering | api | nosql | application support | docker | database | mobile | microsoft azure | infrastructure | splunk,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/advisor-systems-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-5-to-12-yrs-jobid-J2q8TOWwBvdzpSvf__PLUS__uAgZw==&bc=+&sequence=13
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: devops methodologies | agile development | system performance | incident resolution | mentor | procedures | portal | software development | mobile | payment gateway,
+                     Puslish date: 24h,
+                     Location: Germany,
+                     More info: https://m.timesjobs.com/mobile/job-detail/solution-lead-devops-m-f-d-at-fiserv-inc-fiserv-ce-pvt-ltd-germany-5-to-10-yrs-jobid-fY8LKE94bcFzpSvf__PLUS__uAgZw==&bc=+&sequence=14
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: software development | technical leadership | agile methodologies | cloud services ( aws | azure ) | database management | c | sql | java | devops | debugging | c# | mobile,
+                     Puslish date: 24h,
+                     Location: Chennai,
+                     More info: https://m.timesjobs.com/mobile/job-detail/tech-lead-software-architecture-at-fiserv-inc-fiserv-ce-pvt-ltd-chennai-4-to-7-yrs-jobid-qMoM0At7k7BzpSvf__PLUS__uAgZw==&bc=+&sequence=15
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: cybersecurity program management | risk mitigation strategies | compliance and governance | security vulnerability assessment | ceh | cissp | technology risk | cyber security | data security | mobile | information security | cism | application security,
+                     Puslish date: 24h,
+                     Location: Singapore,
+                     More info: https://m.timesjobs.com/mobile/job-detail/cyber-security-sr-advisor-at-fiserv-inc-fiserv-ce-pvt-ltd-singapore-10-to-15-yrs-jobid-V7VODlyFf4lzpSvf__PLUS__uAgZw==&bc=+&sequence=16
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: incident management | problem resolution | data analytics | change management | itil framework | problem management | mobile | team lead | infrastructure,
+                     Puslish date: 24h,
+                     Location: Pune,  Thane,
+                     More info: https://m.timesjobs.com/mobile/job-detail/systems-engineering-lead-at-fiserv-inc-fiserv-ce-pvt-ltd-pune-thane-5-to-8-yrs-jobid-ibeKo__PLUS__48QbVzpSvf__PLUS__uAgZw==&bc=+&sequence=17
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: systems infrastructure design | performance tuning | automation tools expertise | scripting languages | hyper-v | security | linux | powershell | virtualization | vmware | mobile | aws,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/advisor-ii-systems-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-6-to-9-yrs-jobid-yHI0XTRLDjlzpSvf__PLUS__uAgZw==&bc=+&sequence=18
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: systems engineering | linux administration | cloud technologies | virtualization tools | performance tuning | hyper-v | security | powershell | vmware | mobile | infrastructure | aws,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/advisor-ii-systems-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-6-to-9-yrs-jobid-EzE21WfhIkpzpSvf__PLUS__uAgZw==&bc=+&sequence=19
+                 
+                     Company name: ebizon net info  ( p )  ltd,
+                     Required skills: magento development | mysql expertise | php programming | client management | git source control | fundamentals | database | object oriented programming | mvc | team player,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/ebizon-magento-developer-noida-ebizon-net-info-p-ltd-noida-greater-noida-2-to-5-yrs-jobid-6XF7opggKxZzpSvf__PLUS__uAgZw==&bc=+&sequence=20
+                 
+                     Company name: Career Progress Consultants,
+                     Required skills: react | js development | net core integration | sql database management | c# programming language | code review practices | infrastructure engineering | react.js | security | git | senior software developer | devops | web development | api | rest | project delivery | .net,
+                     Puslish date: 24h,
+                     Location: Canada,
+                     More info: https://m.timesjobs.com/mobile/job-detail/senior-software-developer-career-progress-consultants-canada-6-to-9-yrs-jobid-2lhWX__SLASH__nFXelzpSvf__PLUS__uAgZw==&bc=+&sequence=21
+                 
+                     Company name: Career Progress Consultants,
+                     Required skills: c development | object oriented programming | code maintenance | problem solving | fundamentals | git | devops | games | software engineer | software engineering | api | c# | cli | rest | windows | visual studio | xaml | infrastructure | project delivery,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/software-engineer-i-career-progress-consultants-1-to-4-yrs-jobid-58JOnQQblb1zpSvf__PLUS__uAgZw==&bc=+&sequence=22
+                 
+                     Company name: Career Progress Consultants,
+                     Required skills: project management | sales support | data analysis | hubspot proficiency | customer service | pmo | crm | professional services | infrastructure | project delivery,
+                     Puslish date: 24h,
+                     Location: Canada,
+                     More info: https://m.timesjobs.com/mobile/job-detail/project-and-sales-support-analyst-ii-career-progress-consultants-canada-3-to-5-yrs-jobid-VWXDulCXwChzpSvf__PLUS__uAgZw==&bc=+&sequence=23
+                 
+                     Company name: arista infotech,
+                     Required skills: front end development | html | css | javascript | bootstrap & responsive design | angularjs framework | wordpress | ajax | react.js | json | mobile,
+                     Puslish date: 24h,
+                     Location: Nagpur,
+                     More info: https://m.timesjobs.com/mobile/job-detail/front-end-developer-arista-infotech-nagpur-3-to-6-yrs-jobid-7TSpOHuj__SLASH__4ZzpSvf__PLUS__uAgZw==&bc=+&sequence=24
+                 
+                     Company name: ap moller-maersk shipping,
+                     Required skills: data entry accuracy | process mapping | data quality management | kpi tracking | testing | case management | individual contributor | e2e,
+                     Puslish date: 24h,
+                     Location: Chennai,
+                     More info: https://m.timesjobs.com/mobile/job-detail/mgf-otm-associate-ap-moller-maersk-shipping-chennai-2-to-3-yrs-jobid-PhjINSqlnbJzpSvf__PLUS__uAgZw==&bc=+&sequence=25
+                 
+                     Company name: Team Management Services,
+                     Required skills: java | jboss | python | unix | devops,
+                     Puslish date: 24h,
+                     Location: Mumbai,  Navi Mumbai,  Thane,
+                     More info: https://m.timesjobs.com/mobile/job-detail/senior-implementation-specialist-team-management-services-mumbai-navi-mumbai-thane-7-to-12-yrs-jobid-Axvkqf1PPiFzpSvf__PLUS__uAgZw==&bc=+&sequence=1
+                 
+                     Company name: LTIMindtree Ltd.,
+                     Required skills: solidworks | python scripting,
+                     Puslish date: 24h,
+                     Location: Delhi,  Delhi/NCR,  Kolkata,  Noida/Greater Noida,  Coimbatore,
+                     More info: https://m.timesjobs.com/mobile/job-detail/python-developer-ltimindtree-ltd-delhi-delhi-ncr-kolkata-noida-greater-noida-coimbatore-3-to-6-yrs-jobid-h9RDXUWeexVzpSvf__PLUS__uAgZw==&bc=+&sequence=2
+                 
+                     Company name: LTIMindtree Ltd.,
+                     Required skills: solidworks | python scripting,
+                     Puslish date: 24h,
+                     Location: Bengaluru / Bangalore,  Chennai,  Hyderabad/Secunderabad,  Mumbai,  Pune,
+                     More info: https://m.timesjobs.com/mobile/job-detail/python-developer-ltimindtree-ltd-bengaluru-bangalore-chennai-hyderabad-secunderabad-mumbai-pune-3-to-6-yrs-jobid-DnueTiAmzX5zpSvf__PLUS__uAgZw==&bc=+&sequence=3
+                 
+                     Company name: LTIMindtree Ltd.,
+                     Required skills: python developer | microsoft office,
+                     Puslish date: 24h,
+                     Location: Bengaluru / Bangalore,  Chennai,  Hyderabad/Secunderabad,  Mumbai,  Pune,
+                     More info: https://m.timesjobs.com/mobile/job-detail/python-developer-ltimindtree-ltd-bengaluru-bangalore-chennai-hyderabad-secunderabad-mumbai-pune-3-to-6-yrs-jobid-tpcc9qIdhYBzpSvf__PLUS__uAgZw==&bc=+&sequence=4
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: software development | c# programming | regulatory compliance | ci / cd practices | problem solving | xml | github | javascript | .net | software developer | soap | sql | security | fx | mobile | infrastructure,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/technical-lead-software-developer-at-fiserv-inc-fiserv-ce-pvt-ltd-12-to-15-yrs-jobid-lhAFZcJy8qZzpSvf__PLUS__uAgZw==&bc=+&sequence=5
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: splunk query optimization | monitoring dashboard development | performance engineering practices | software development scripting | onboarding cloud applications | information technology | rest | mobile,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/systems-engineer-advisor-ii-splunk-at-fiserv-inc-fiserv-ce-pvt-ltd-6-to-10-yrs-jobid-zWu4NucgPTdzpSvf__PLUS__uAgZw==&bc=+&sequence=6
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: api integrations | project management | technical troubleshooting | client liaison | web services | sql | java | html | perl | c# | mobile | ruby | php | soap,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/api-integrations-analyst-at-fiserv-inc-fiserv-ce-pvt-ltd-3-to-5-yrs-jobid-1opNY1ExtJhzpSvf__PLUS__uAgZw==&bc=+&sequence=7
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: cloud architecture | net development | sql server management | microservices transition | containerization technologies | c# | mobile | microsoft azure | infrastructure | .net,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/senior-solutions-architect-net-azure-at-fiserv-inc-fiserv-ce-pvt-ltd-10-to-13-yrs-jobid-lrEIti__PLUS__Jaj5zpSvf__PLUS__uAgZw==&bc=+&sequence=8
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: software architecture | technology integration | software solution design | cloud platforms | microservices architecture | c# | python | mobile | docker | security | java,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/software-architecture-advisor-ii-at-fiserv-inc-fiserv-ce-pvt-ltd-6-to-9-yrs-jobid-Vt7g35OMf4ZzpSvf__PLUS__uAgZw==&bc=+&sequence=9
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: software quality assurance | automation testing | performance testing | agile methodologies | test planning | continuous integration | software testing | mobile | test cases | qa | testing tools | security testing,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/technical-quality-assurance-professional-ii-at-fiserv-inc-fiserv-ce-pvt-ltd-3-to-5-yrs-jobid-oFsGRPQh77ZzpSvf__PLUS__uAgZw==&bc=+&sequence=10
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: container platforms | ci / cd pipelines | automation techniques | programming languages | networking concepts | devops | linux | python | github | mobile | access management | windows | identity management | infrastructure,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/kubernetes-container-platform-engineer-at-fiserv-inc-fiserv-ce-pvt-ltd-5-to-8-yrs-jobid-AtfaHDBGCtBzpSvf__PLUS__uAgZw==&bc=+&sequence=11
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: net development | unit testing | agile methodologies | debugging practices | security vulnerabilities | jquery | sql | xml | devops | mvc | c# | .net developer | mobile | javascript | visual studio,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/tech-lead-software-development-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-7-to-10-yrs-jobid-6KZZgjT2SIdzpSvf__PLUS__uAgZw==&bc=+&sequence=12
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: python scripting | ci / cd integration | automation solutions | ansible proficiency | monitoring tools | information technology | devops | software engineering | api | nosql | application support | docker | database | mobile | microsoft azure | infrastructure | splunk,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/advisor-systems-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-5-to-12-yrs-jobid-J2q8TOWwBvdzpSvf__PLUS__uAgZw==&bc=+&sequence=13
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: devops methodologies | agile development | system performance | incident resolution | mentor | procedures | portal | software development | mobile | payment gateway,
+                     Puslish date: 24h,
+                     Location: Germany,
+                     More info: https://m.timesjobs.com/mobile/job-detail/solution-lead-devops-m-f-d-at-fiserv-inc-fiserv-ce-pvt-ltd-germany-5-to-10-yrs-jobid-fY8LKE94bcFzpSvf__PLUS__uAgZw==&bc=+&sequence=14
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: software development | technical leadership | agile methodologies | cloud services ( aws | azure ) | database management | c | sql | java | devops | debugging | c# | mobile,
+                     Puslish date: 24h,
+                     Location: Chennai,
+                     More info: https://m.timesjobs.com/mobile/job-detail/tech-lead-software-architecture-at-fiserv-inc-fiserv-ce-pvt-ltd-chennai-4-to-7-yrs-jobid-qMoM0At7k7BzpSvf__PLUS__uAgZw==&bc=+&sequence=15
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: cybersecurity program management | risk mitigation strategies | compliance and governance | security vulnerability assessment | ceh | cissp | technology risk | cyber security | data security | mobile | information security | cism | application security,
+                     Puslish date: 24h,
+                     Location: Singapore,
+                     More info: https://m.timesjobs.com/mobile/job-detail/cyber-security-sr-advisor-at-fiserv-inc-fiserv-ce-pvt-ltd-singapore-10-to-15-yrs-jobid-V7VODlyFf4lzpSvf__PLUS__uAgZw==&bc=+&sequence=16
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: incident management | problem resolution | data analytics | change management | itil framework | problem management | mobile | team lead | infrastructure,
+                     Puslish date: 24h,
+                     Location: Pune,  Thane,
+                     More info: https://m.timesjobs.com/mobile/job-detail/systems-engineering-lead-at-fiserv-inc-fiserv-ce-pvt-ltd-pune-thane-5-to-8-yrs-jobid-ibeKo__PLUS__48QbVzpSvf__PLUS__uAgZw==&bc=+&sequence=17
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: systems infrastructure design | performance tuning | automation tools expertise | scripting languages | hyper-v | security | linux | powershell | virtualization | vmware | mobile | aws,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/advisor-ii-systems-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-6-to-9-yrs-jobid-yHI0XTRLDjlzpSvf__PLUS__uAgZw==&bc=+&sequence=18
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: systems engineering | linux administration | cloud technologies | virtualization tools | performance tuning | hyper-v | security | powershell | vmware | mobile | infrastructure | aws,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/advisor-ii-systems-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-6-to-9-yrs-jobid-EzE21WfhIkpzpSvf__PLUS__uAgZw==&bc=+&sequence=19
+                 
+                     Company name: ebizon net info  ( p )  ltd,
+                     Required skills: magento development | mysql expertise | php programming | client management | git source control | fundamentals | database | object oriented programming | mvc | team player,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/ebizon-magento-developer-noida-ebizon-net-info-p-ltd-noida-greater-noida-2-to-5-yrs-jobid-6XF7opggKxZzpSvf__PLUS__uAgZw==&bc=+&sequence=20
+                 
+                     Company name: Career Progress Consultants,
+                     Required skills: react | js development | net core integration | sql database management | c# programming language | code review practices | infrastructure engineering | react.js | security | git | senior software developer | devops | web development | api | rest | project delivery | .net,
+                     Puslish date: 24h,
+                     Location: Canada,
+                     More info: https://m.timesjobs.com/mobile/job-detail/senior-software-developer-career-progress-consultants-canada-6-to-9-yrs-jobid-2lhWX__SLASH__nFXelzpSvf__PLUS__uAgZw==&bc=+&sequence=21
+                 
+                     Company name: Career Progress Consultants,
+                     Required skills: c development | object oriented programming | code maintenance | problem solving | fundamentals | git | devops | games | software engineer | software engineering | api | c# | cli | rest | windows | visual studio | xaml | infrastructure | project delivery,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/software-engineer-i-career-progress-consultants-1-to-4-yrs-jobid-58JOnQQblb1zpSvf__PLUS__uAgZw==&bc=+&sequence=22
+                 
+                     Company name: Career Progress Consultants,
+                     Required skills: project management | sales support | data analysis | hubspot proficiency | customer service | pmo | crm | professional services | infrastructure | project delivery,
+                     Puslish date: 24h,
+                     Location: Canada,
+                     More info: https://m.timesjobs.com/mobile/job-detail/project-and-sales-support-analyst-ii-career-progress-consultants-canada-3-to-5-yrs-jobid-VWXDulCXwChzpSvf__PLUS__uAgZw==&bc=+&sequence=23
+                 
+                     Company name: arista infotech,
+                     Required skills: front end development | html | css | javascript | bootstrap & responsive design | angularjs framework | wordpress | ajax | react.js | json | mobile,
+                     Puslish date: 24h,
+                     Location: Nagpur,
+                     More info: https://m.timesjobs.com/mobile/job-detail/front-end-developer-arista-infotech-nagpur-3-to-6-yrs-jobid-7TSpOHuj__SLASH__4ZzpSvf__PLUS__uAgZw==&bc=+&sequence=24
+                 
+                     Company name: ap moller-maersk shipping,
+                     Required skills: data entry accuracy | process mapping | data quality management | kpi tracking | testing | case management | individual contributor | e2e,
+                     Puslish date: 24h,
+                     Location: Chennai,
+                     More info: https://m.timesjobs.com/mobile/job-detail/mgf-otm-associate-ap-moller-maersk-shipping-chennai-2-to-3-yrs-jobid-PhjINSqlnbJzpSvf__PLUS__uAgZw==&bc=+&sequence=25
+                 
+                     Company name: Team Management Services,
+                     Required skills: java | jboss | python | unix | devops,
+                     Puslish date: 24h,
+                     Location: Mumbai,  Navi Mumbai,  Thane,
+                     More info: https://m.timesjobs.com/mobile/job-detail/senior-implementation-specialist-team-management-services-mumbai-navi-mumbai-thane-7-to-12-yrs-jobid-Axvkqf1PPiFzpSvf__PLUS__uAgZw==&bc=+&sequence=1
+                 
+                     Company name: LTIMindtree Ltd.,
+                     Required skills: solidworks | python scripting,
+                     Puslish date: 24h,
+                     Location: Delhi,  Delhi/NCR,  Kolkata,  Noida/Greater Noida,  Coimbatore,
+                     More info: https://m.timesjobs.com/mobile/job-detail/python-developer-ltimindtree-ltd-delhi-delhi-ncr-kolkata-noida-greater-noida-coimbatore-3-to-6-yrs-jobid-h9RDXUWeexVzpSvf__PLUS__uAgZw==&bc=+&sequence=2
+                 
+                     Company name: LTIMindtree Ltd.,
+                     Required skills: solidworks | python scripting,
+                     Puslish date: 24h,
+                     Location: Bengaluru / Bangalore,  Chennai,  Hyderabad/Secunderabad,  Mumbai,  Pune,
+                     More info: https://m.timesjobs.com/mobile/job-detail/python-developer-ltimindtree-ltd-bengaluru-bangalore-chennai-hyderabad-secunderabad-mumbai-pune-3-to-6-yrs-jobid-DnueTiAmzX5zpSvf__PLUS__uAgZw==&bc=+&sequence=3
+                 
+                     Company name: LTIMindtree Ltd.,
+                     Required skills: python developer | microsoft office,
+                     Puslish date: 24h,
+                     Location: Bengaluru / Bangalore,  Chennai,  Hyderabad/Secunderabad,  Mumbai,  Pune,
+                     More info: https://m.timesjobs.com/mobile/job-detail/python-developer-ltimindtree-ltd-bengaluru-bangalore-chennai-hyderabad-secunderabad-mumbai-pune-3-to-6-yrs-jobid-tpcc9qIdhYBzpSvf__PLUS__uAgZw==&bc=+&sequence=4
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: software development | c# programming | regulatory compliance | ci / cd practices | problem solving | xml | github | javascript | .net | software developer | soap | sql | security | fx | mobile | infrastructure,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/technical-lead-software-developer-at-fiserv-inc-fiserv-ce-pvt-ltd-12-to-15-yrs-jobid-lhAFZcJy8qZzpSvf__PLUS__uAgZw==&bc=+&sequence=5
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: splunk query optimization | monitoring dashboard development | performance engineering practices | software development scripting | onboarding cloud applications | information technology | rest | mobile,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/systems-engineer-advisor-ii-splunk-at-fiserv-inc-fiserv-ce-pvt-ltd-6-to-10-yrs-jobid-zWu4NucgPTdzpSvf__PLUS__uAgZw==&bc=+&sequence=6
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: api integrations | project management | technical troubleshooting | client liaison | web services | sql | java | html | perl | c# | mobile | ruby | php | soap,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/api-integrations-analyst-at-fiserv-inc-fiserv-ce-pvt-ltd-3-to-5-yrs-jobid-1opNY1ExtJhzpSvf__PLUS__uAgZw==&bc=+&sequence=7
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: cloud architecture | net development | sql server management | microservices transition | containerization technologies | c# | mobile | microsoft azure | infrastructure | .net,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/senior-solutions-architect-net-azure-at-fiserv-inc-fiserv-ce-pvt-ltd-10-to-13-yrs-jobid-lrEIti__PLUS__Jaj5zpSvf__PLUS__uAgZw==&bc=+&sequence=8
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: software architecture | technology integration | software solution design | cloud platforms | microservices architecture | c# | python | mobile | docker | security | java,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/software-architecture-advisor-ii-at-fiserv-inc-fiserv-ce-pvt-ltd-6-to-9-yrs-jobid-Vt7g35OMf4ZzpSvf__PLUS__uAgZw==&bc=+&sequence=9
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: software quality assurance | automation testing | performance testing | agile methodologies | test planning | continuous integration | software testing | mobile | test cases | qa | testing tools | security testing,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/technical-quality-assurance-professional-ii-at-fiserv-inc-fiserv-ce-pvt-ltd-3-to-5-yrs-jobid-oFsGRPQh77ZzpSvf__PLUS__uAgZw==&bc=+&sequence=10
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: container platforms | ci / cd pipelines | automation techniques | programming languages | networking concepts | devops | linux | python | github | mobile | access management | windows | identity management | infrastructure,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/kubernetes-container-platform-engineer-at-fiserv-inc-fiserv-ce-pvt-ltd-5-to-8-yrs-jobid-AtfaHDBGCtBzpSvf__PLUS__uAgZw==&bc=+&sequence=11
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: net development | unit testing | agile methodologies | debugging practices | security vulnerabilities | jquery | sql | xml | devops | mvc | c# | .net developer | mobile | javascript | visual studio,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/tech-lead-software-development-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-7-to-10-yrs-jobid-6KZZgjT2SIdzpSvf__PLUS__uAgZw==&bc=+&sequence=12
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: python scripting | ci / cd integration | automation solutions | ansible proficiency | monitoring tools | information technology | devops | software engineering | api | nosql | application support | docker | database | mobile | microsoft azure | infrastructure | splunk,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/advisor-systems-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-5-to-12-yrs-jobid-J2q8TOWwBvdzpSvf__PLUS__uAgZw==&bc=+&sequence=13
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: devops methodologies | agile development | system performance | incident resolution | mentor | procedures | portal | software development | mobile | payment gateway,
+                     Puslish date: 24h,
+                     Location: Germany,
+                     More info: https://m.timesjobs.com/mobile/job-detail/solution-lead-devops-m-f-d-at-fiserv-inc-fiserv-ce-pvt-ltd-germany-5-to-10-yrs-jobid-fY8LKE94bcFzpSvf__PLUS__uAgZw==&bc=+&sequence=14
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: software development | technical leadership | agile methodologies | cloud services ( aws | azure ) | database management | c | sql | java | devops | debugging | c# | mobile,
+                     Puslish date: 24h,
+                     Location: Chennai,
+                     More info: https://m.timesjobs.com/mobile/job-detail/tech-lead-software-architecture-at-fiserv-inc-fiserv-ce-pvt-ltd-chennai-4-to-7-yrs-jobid-qMoM0At7k7BzpSvf__PLUS__uAgZw==&bc=+&sequence=15
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: cybersecurity program management | risk mitigation strategies | compliance and governance | security vulnerability assessment | ceh | cissp | technology risk | cyber security | data security | mobile | information security | cism | application security,
+                     Puslish date: 24h,
+                     Location: Singapore,
+                     More info: https://m.timesjobs.com/mobile/job-detail/cyber-security-sr-advisor-at-fiserv-inc-fiserv-ce-pvt-ltd-singapore-10-to-15-yrs-jobid-V7VODlyFf4lzpSvf__PLUS__uAgZw==&bc=+&sequence=16
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: incident management | problem resolution | data analytics | change management | itil framework | problem management | mobile | team lead | infrastructure,
+                     Puslish date: 24h,
+                     Location: Pune,  Thane,
+                     More info: https://m.timesjobs.com/mobile/job-detail/systems-engineering-lead-at-fiserv-inc-fiserv-ce-pvt-ltd-pune-thane-5-to-8-yrs-jobid-ibeKo__PLUS__48QbVzpSvf__PLUS__uAgZw==&bc=+&sequence=17
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: systems infrastructure design | performance tuning | automation tools expertise | scripting languages | hyper-v | security | linux | powershell | virtualization | vmware | mobile | aws,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/advisor-ii-systems-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-6-to-9-yrs-jobid-yHI0XTRLDjlzpSvf__PLUS__uAgZw==&bc=+&sequence=18
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: systems engineering | linux administration | cloud technologies | virtualization tools | performance tuning | hyper-v | security | powershell | vmware | mobile | infrastructure | aws,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/advisor-ii-systems-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-6-to-9-yrs-jobid-EzE21WfhIkpzpSvf__PLUS__uAgZw==&bc=+&sequence=19
+                 
+                     Company name: ebizon net info  ( p )  ltd,
+                     Required skills: magento development | mysql expertise | php programming | client management | git source control | fundamentals | database | object oriented programming | mvc | team player,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/ebizon-magento-developer-noida-ebizon-net-info-p-ltd-noida-greater-noida-2-to-5-yrs-jobid-6XF7opggKxZzpSvf__PLUS__uAgZw==&bc=+&sequence=20
+                 
+                     Company name: Career Progress Consultants,
+                     Required skills: react | js development | net core integration | sql database management | c# programming language | code review practices | infrastructure engineering | react.js | security | git | senior software developer | devops | web development | api | rest | project delivery | .net,
+                     Puslish date: 24h,
+                     Location: Canada,
+                     More info: https://m.timesjobs.com/mobile/job-detail/senior-software-developer-career-progress-consultants-canada-6-to-9-yrs-jobid-2lhWX__SLASH__nFXelzpSvf__PLUS__uAgZw==&bc=+&sequence=21
+                 
+                     Company name: Career Progress Consultants,
+                     Required skills: c development | object oriented programming | code maintenance | problem solving | fundamentals | git | devops | games | software engineer | software engineering | api | c# | cli | rest | windows | visual studio | xaml | infrastructure | project delivery,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/software-engineer-i-career-progress-consultants-1-to-4-yrs-jobid-58JOnQQblb1zpSvf__PLUS__uAgZw==&bc=+&sequence=22
+                 
+                     Company name: Career Progress Consultants,
+                     Required skills: project management | sales support | data analysis | hubspot proficiency | customer service | pmo | crm | professional services | infrastructure | project delivery,
+                     Puslish date: 24h,
+                     Location: Canada,
+                     More info: https://m.timesjobs.com/mobile/job-detail/project-and-sales-support-analyst-ii-career-progress-consultants-canada-3-to-5-yrs-jobid-VWXDulCXwChzpSvf__PLUS__uAgZw==&bc=+&sequence=23
+                 
+                     Company name: arista infotech,
+                     Required skills: front end development | html | css | javascript | bootstrap & responsive design | angularjs framework | wordpress | ajax | react.js | json | mobile,
+                     Puslish date: 24h,
+                     Location: Nagpur,
+                     More info: https://m.timesjobs.com/mobile/job-detail/front-end-developer-arista-infotech-nagpur-3-to-6-yrs-jobid-7TSpOHuj__SLASH__4ZzpSvf__PLUS__uAgZw==&bc=+&sequence=24
+                 
+                     Company name: ap moller-maersk shipping,
+                     Required skills: data entry accuracy | process mapping | data quality management | kpi tracking | testing | case management | individual contributor | e2e,
+                     Puslish date: 24h,
+                     Location: Chennai,
+                     More info: https://m.timesjobs.com/mobile/job-detail/mgf-otm-associate-ap-moller-maersk-shipping-chennai-2-to-3-yrs-jobid-PhjINSqlnbJzpSvf__PLUS__uAgZw==&bc=+&sequence=25
+                 
+            Company name: Team Management Services
+            Required skills: java | jboss | python | unix | devops
+            Publish date: 24h
+            Location: Mumbai,  Navi Mumbai,  Thane
+            More info: https://m.timesjobs.com/mobile/job-detail/senior-implementation-specialist-team-management-services-mumbai-navi-mumbai-thane-7-to-12-yrs-jobid-Axvkqf1PPiFzpSvf__PLUS__uAgZw==&bc=+&sequence=1
+            
+--------------------------------------------------
+
+            Company name: LTIMindtree Ltd.
+            Required skills: solidworks | python scripting
+            Publish date: 24h
+            Location: Delhi,  Delhi/NCR,  Kolkata,  Noida/Greater Noida,  Coimbatore
+            More info: https://m.timesjobs.com/mobile/job-detail/python-developer-ltimindtree-ltd-delhi-delhi-ncr-kolkata-noida-greater-noida-coimbatore-3-to-6-yrs-jobid-h9RDXUWeexVzpSvf__PLUS__uAgZw==&bc=+&sequence=2
+            
+--------------------------------------------------
+
+            Company name: LTIMindtree Ltd.
+            Required skills: solidworks | python scripting
+            Publish date: 24h
+            Location: Bengaluru / Bangalore,  Chennai,  Hyderabad/Secunderabad,  Mumbai,  Pune
+            More info: https://m.timesjobs.com/mobile/job-detail/python-developer-ltimindtree-ltd-bengaluru-bangalore-chennai-hyderabad-secunderabad-mumbai-pune-3-to-6-yrs-jobid-DnueTiAmzX5zpSvf__PLUS__uAgZw==&bc=+&sequence=3
+            
+--------------------------------------------------
+
+            Company name: LTIMindtree Ltd.
+            Required skills: python developer | microsoft office
+            Publish date: 24h
+            Location: Bengaluru / Bangalore,  Chennai,  Hyderabad/Secunderabad,  Mumbai,  Pune
+            More info: https://m.timesjobs.com/mobile/job-detail/python-developer-ltimindtree-ltd-bengaluru-bangalore-chennai-hyderabad-secunderabad-mumbai-pune-3-to-6-yrs-jobid-tpcc9qIdhYBzpSvf__PLUS__uAgZw==&bc=+&sequence=4
+            
+--------------------------------------------------
+
+            Company name: fiserv ce pvt ltd
+            Required skills: software development | c# programming | regulatory compliance | ci / cd practices | problem solving | xml | github | javascript | .net | software developer | soap | sql | security | fx | mobile | infrastructure
+            Publish date: 24h
+            Location: 
+            More info: https://m.timesjobs.com/mobile/job-detail/technical-lead-software-developer-at-fiserv-inc-fiserv-ce-pvt-ltd-12-to-15-yrs-jobid-lhAFZcJy8qZzpSvf__PLUS__uAgZw==&bc=+&sequence=5
+            
+--------------------------------------------------
+
+            Company name: fiserv ce pvt ltd
+            Required skills: splunk query optimization | monitoring dashboard development | performance engineering practices | software development scripting | onboarding cloud applications | information technology | rest | mobile
+            Publish date: 24h
+            Location: 
+            More info: https://m.timesjobs.com/mobile/job-detail/systems-engineer-advisor-ii-splunk-at-fiserv-inc-fiserv-ce-pvt-ltd-6-to-10-yrs-jobid-zWu4NucgPTdzpSvf__PLUS__uAgZw==&bc=+&sequence=6
+            
+--------------------------------------------------
+
+            Company name: fiserv ce pvt ltd
+            Required skills: api integrations | project management | technical troubleshooting | client liaison | web services | sql | java | html | perl | c# | mobile | ruby | php | soap
+            Publish date: 24h
+            Location: 
+            More info: https://m.timesjobs.com/mobile/job-detail/api-integrations-analyst-at-fiserv-inc-fiserv-ce-pvt-ltd-3-to-5-yrs-jobid-1opNY1ExtJhzpSvf__PLUS__uAgZw==&bc=+&sequence=7
+            
+--------------------------------------------------
+
+            Company name: fiserv ce pvt ltd
+            Required skills: cloud architecture | net development | sql server management | microservices transition | containerization technologies | c# | mobile | microsoft azure | infrastructure | .net
+            Publish date: 24h
+            Location: 
+            More info: https://m.timesjobs.com/mobile/job-detail/senior-solutions-architect-net-azure-at-fiserv-inc-fiserv-ce-pvt-ltd-10-to-13-yrs-jobid-lrEIti__PLUS__Jaj5zpSvf__PLUS__uAgZw==&bc=+&sequence=8
+            
+--------------------------------------------------
+
+            Company name: fiserv ce pvt ltd
+            Required skills: software architecture | technology integration | software solution design | cloud platforms | microservices architecture | c# | python | mobile | docker | security | java
+            Publish date: 24h
+            Location: 
+            More info: https://m.timesjobs.com/mobile/job-detail/software-architecture-advisor-ii-at-fiserv-inc-fiserv-ce-pvt-ltd-6-to-9-yrs-jobid-Vt7g35OMf4ZzpSvf__PLUS__uAgZw==&bc=+&sequence=9
+            
+--------------------------------------------------
+
+            Company name: fiserv ce pvt ltd
+            Required skills: software quality assurance | automation testing | performance testing | agile methodologies | test planning | continuous integration | software testing | mobile | test cases | qa | testing tools | security testing
+            Publish date: 24h
+            Location: 
+            More info: https://m.timesjobs.com/mobile/job-detail/technical-quality-assurance-professional-ii-at-fiserv-inc-fiserv-ce-pvt-ltd-3-to-5-yrs-jobid-oFsGRPQh77ZzpSvf__PLUS__uAgZw==&bc=+&sequence=10
+            
+--------------------------------------------------
+
+            Company name: fiserv ce pvt ltd
+            Required skills: container platforms | ci / cd pipelines | automation techniques | programming languages | networking concepts | devops | linux | python | github | mobile | access management | windows | identity management | infrastructure
+            Publish date: 24h
+            Location: 
+            More info: https://m.timesjobs.com/mobile/job-detail/kubernetes-container-platform-engineer-at-fiserv-inc-fiserv-ce-pvt-ltd-5-to-8-yrs-jobid-AtfaHDBGCtBzpSvf__PLUS__uAgZw==&bc=+&sequence=11
+            
+--------------------------------------------------
+
+            Company name: fiserv ce pvt ltd
+            Required skills: net development | unit testing | agile methodologies | debugging practices | security vulnerabilities | jquery | sql | xml | devops | mvc | c# | .net developer | mobile | javascript | visual studio
+            Publish date: 24h
+            Location: Noida/Greater Noida
+            More info: https://m.timesjobs.com/mobile/job-detail/tech-lead-software-development-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-7-to-10-yrs-jobid-6KZZgjT2SIdzpSvf__PLUS__uAgZw==&bc=+&sequence=12
+            
+--------------------------------------------------
+
+            Company name: fiserv ce pvt ltd
+            Required skills: python scripting | ci / cd integration | automation solutions | ansible proficiency | monitoring tools | information technology | devops | software engineering | api | nosql | application support | docker | database | mobile | microsoft azure | infrastructure | splunk
+            Publish date: 24h
+            Location: Noida/Greater Noida
+            More info: https://m.timesjobs.com/mobile/job-detail/advisor-systems-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-5-to-12-yrs-jobid-J2q8TOWwBvdzpSvf__PLUS__uAgZw==&bc=+&sequence=13
+            
+--------------------------------------------------
+
+            Company name: fiserv ce pvt ltd
+            Required skills: devops methodologies | agile development | system performance | incident resolution | mentor | procedures | portal | software development | mobile | payment gateway
+            Publish date: 24h
+            Location: Germany
+            More info: https://m.timesjobs.com/mobile/job-detail/solution-lead-devops-m-f-d-at-fiserv-inc-fiserv-ce-pvt-ltd-germany-5-to-10-yrs-jobid-fY8LKE94bcFzpSvf__PLUS__uAgZw==&bc=+&sequence=14
+            
+--------------------------------------------------
+
+            Company name: fiserv ce pvt ltd
+            Required skills: software development | technical leadership | agile methodologies | cloud services ( aws | azure ) | database management | c | sql | java | devops | debugging | c# | mobile
+            Publish date: 24h
+            Location: Chennai
+            More info: https://m.timesjobs.com/mobile/job-detail/tech-lead-software-architecture-at-fiserv-inc-fiserv-ce-pvt-ltd-chennai-4-to-7-yrs-jobid-qMoM0At7k7BzpSvf__PLUS__uAgZw==&bc=+&sequence=15
+            
+--------------------------------------------------
+
+            Company name: fiserv ce pvt ltd
+            Required skills: cybersecurity program management | risk mitigation strategies | compliance and governance | security vulnerability assessment | ceh | cissp | technology risk | cyber security | data security | mobile | information security | cism | application security
+            Publish date: 24h
+            Location: Singapore
+            More info: https://m.timesjobs.com/mobile/job-detail/cyber-security-sr-advisor-at-fiserv-inc-fiserv-ce-pvt-ltd-singapore-10-to-15-yrs-jobid-V7VODlyFf4lzpSvf__PLUS__uAgZw==&bc=+&sequence=16
+            
+--------------------------------------------------
+
+            Company name: fiserv ce pvt ltd
+            Required skills: incident management | problem resolution | data analytics | change management | itil framework | problem management | mobile | team lead | infrastructure
+            Publish date: 24h
+            Location: Pune,  Thane
+            More info: https://m.timesjobs.com/mobile/job-detail/systems-engineering-lead-at-fiserv-inc-fiserv-ce-pvt-ltd-pune-thane-5-to-8-yrs-jobid-ibeKo__PLUS__48QbVzpSvf__PLUS__uAgZw==&bc=+&sequence=17
+            
+--------------------------------------------------
+
+            Company name: fiserv ce pvt ltd
+            Required skills: systems infrastructure design | performance tuning | automation tools expertise | scripting languages | hyper-v | security | linux | powershell | virtualization | vmware | mobile | aws
+            Publish date: 24h
+            Location: Noida/Greater Noida
+            More info: https://m.timesjobs.com/mobile/job-detail/advisor-ii-systems-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-6-to-9-yrs-jobid-yHI0XTRLDjlzpSvf__PLUS__uAgZw==&bc=+&sequence=18
+            
+--------------------------------------------------
+
+            Company name: fiserv ce pvt ltd
+            Required skills: systems engineering | linux administration | cloud technologies | virtualization tools | performance tuning | hyper-v | security | powershell | vmware | mobile | infrastructure | aws
+            Publish date: 24h
+            Location: Noida/Greater Noida
+            More info: https://m.timesjobs.com/mobile/job-detail/advisor-ii-systems-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-6-to-9-yrs-jobid-EzE21WfhIkpzpSvf__PLUS__uAgZw==&bc=+&sequence=19
+            
+--------------------------------------------------
+
+            Company name: ebizon net info  ( p )  ltd
+            Required skills: magento development | mysql expertise | php programming | client management | git source control | fundamentals | database | object oriented programming | mvc | team player
+            Publish date: 24h
+            Location: Noida/Greater Noida
+            More info: https://m.timesjobs.com/mobile/job-detail/ebizon-magento-developer-noida-ebizon-net-info-p-ltd-noida-greater-noida-2-to-5-yrs-jobid-6XF7opggKxZzpSvf__PLUS__uAgZw==&bc=+&sequence=20
+            
+--------------------------------------------------
+
+            Company name: Career Progress Consultants
+            Required skills: react | js development | net core integration | sql database management | c# programming language | code review practices | infrastructure engineering | react.js | security | git | senior software developer | devops | web development | api | rest | project delivery | .net
+            Publish date: 24h
+            Location: Canada
+            More info: https://m.timesjobs.com/mobile/job-detail/senior-software-developer-career-progress-consultants-canada-6-to-9-yrs-jobid-2lhWX__SLASH__nFXelzpSvf__PLUS__uAgZw==&bc=+&sequence=21
+            
+--------------------------------------------------
+
+            Company name: Career Progress Consultants
+            Required skills: c development | object oriented programming | code maintenance | problem solving | fundamentals | git | devops | games | software engineer | software engineering | api | c# | cli | rest | windows | visual studio | xaml | infrastructure | project delivery
+            Publish date: 24h
+            Location: 
+            More info: https://m.timesjobs.com/mobile/job-detail/software-engineer-i-career-progress-consultants-1-to-4-yrs-jobid-58JOnQQblb1zpSvf__PLUS__uAgZw==&bc=+&sequence=22
+            
+--------------------------------------------------
+
+            Company name: Career Progress Consultants
+            Required skills: project management | sales support | data analysis | hubspot proficiency | customer service | pmo | crm | professional services | infrastructure | project delivery
+            Publish date: 24h
+            Location: Canada
+            More info: https://m.timesjobs.com/mobile/job-detail/project-and-sales-support-analyst-ii-career-progress-consultants-canada-3-to-5-yrs-jobid-VWXDulCXwChzpSvf__PLUS__uAgZw==&bc=+&sequence=23
+            
+--------------------------------------------------
+
+            Company name: arista infotech
+            Required skills: front end development | html | css | javascript | bootstrap & responsive design | angularjs framework | wordpress | ajax | react.js | json | mobile
+            Publish date: 24h
+            Location: Nagpur
+            More info: https://m.timesjobs.com/mobile/job-detail/front-end-developer-arista-infotech-nagpur-3-to-6-yrs-jobid-7TSpOHuj__SLASH__4ZzpSvf__PLUS__uAgZw==&bc=+&sequence=24
+            
+--------------------------------------------------
+
+            Company name: ap moller-maersk shipping
+            Required skills: data entry accuracy | process mapping | data quality management | kpi tracking | testing | case management | individual contributor | e2e
+            Publish date: 24h
+            Location: Chennai
+            More info: https://m.timesjobs.com/mobile/job-detail/mgf-otm-associate-ap-moller-maersk-shipping-chennai-2-to-3-yrs-jobid-PhjINSqlnbJzpSvf__PLUS__uAgZw==&bc=+&sequence=25
+            
+--------------------------------------------------
+
+                     Company name: Team Management Services,
+                     Required skills: java | jboss | python | unix | devops,
+                     Puslish date: 24h,
+                     Location: Mumbai,  Navi Mumbai,  Thane,
+                     More info: https://m.timesjobs.com/mobile/job-detail/senior-implementation-specialist-team-management-services-mumbai-navi-mumbai-thane-7-to-12-yrs-jobid-Axvkqf1PPiFzpSvf__PLUS__uAgZw==&bc=+&sequence=1
+                 
+                     Company name: LTIMindtree Ltd.,
+                     Required skills: solidworks | python scripting,
+                     Puslish date: 24h,
+                     Location: Delhi,  Delhi/NCR,  Kolkata,  Noida/Greater Noida,  Coimbatore,
+                     More info: https://m.timesjobs.com/mobile/job-detail/python-developer-ltimindtree-ltd-delhi-delhi-ncr-kolkata-noida-greater-noida-coimbatore-3-to-6-yrs-jobid-h9RDXUWeexVzpSvf__PLUS__uAgZw==&bc=+&sequence=2
+                 
+                     Company name: LTIMindtree Ltd.,
+                     Required skills: solidworks | python scripting,
+                     Puslish date: 24h,
+                     Location: Bengaluru / Bangalore,  Chennai,  Hyderabad/Secunderabad,  Mumbai,  Pune,
+                     More info: https://m.timesjobs.com/mobile/job-detail/python-developer-ltimindtree-ltd-bengaluru-bangalore-chennai-hyderabad-secunderabad-mumbai-pune-3-to-6-yrs-jobid-DnueTiAmzX5zpSvf__PLUS__uAgZw==&bc=+&sequence=3
+                 
+                     Company name: LTIMindtree Ltd.,
+                     Required skills: python developer | microsoft office,
+                     Puslish date: 24h,
+                     Location: Bengaluru / Bangalore,  Chennai,  Hyderabad/Secunderabad,  Mumbai,  Pune,
+                     More info: https://m.timesjobs.com/mobile/job-detail/python-developer-ltimindtree-ltd-bengaluru-bangalore-chennai-hyderabad-secunderabad-mumbai-pune-3-to-6-yrs-jobid-tpcc9qIdhYBzpSvf__PLUS__uAgZw==&bc=+&sequence=4
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: software development | c# programming | regulatory compliance | ci / cd practices | problem solving | xml | github | javascript | .net | software developer | soap | sql | security | fx | mobile | infrastructure,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/technical-lead-software-developer-at-fiserv-inc-fiserv-ce-pvt-ltd-12-to-15-yrs-jobid-lhAFZcJy8qZzpSvf__PLUS__uAgZw==&bc=+&sequence=5
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: splunk query optimization | monitoring dashboard development | performance engineering practices | software development scripting | onboarding cloud applications | information technology | rest | mobile,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/systems-engineer-advisor-ii-splunk-at-fiserv-inc-fiserv-ce-pvt-ltd-6-to-10-yrs-jobid-zWu4NucgPTdzpSvf__PLUS__uAgZw==&bc=+&sequence=6
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: api integrations | project management | technical troubleshooting | client liaison | web services | sql | java | html | perl | c# | mobile | ruby | php | soap,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/api-integrations-analyst-at-fiserv-inc-fiserv-ce-pvt-ltd-3-to-5-yrs-jobid-1opNY1ExtJhzpSvf__PLUS__uAgZw==&bc=+&sequence=7
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: cloud architecture | net development | sql server management | microservices transition | containerization technologies | c# | mobile | microsoft azure | infrastructure | .net,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/senior-solutions-architect-net-azure-at-fiserv-inc-fiserv-ce-pvt-ltd-10-to-13-yrs-jobid-lrEIti__PLUS__Jaj5zpSvf__PLUS__uAgZw==&bc=+&sequence=8
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: software architecture | technology integration | software solution design | cloud platforms | microservices architecture | c# | python | mobile | docker | security | java,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/software-architecture-advisor-ii-at-fiserv-inc-fiserv-ce-pvt-ltd-6-to-9-yrs-jobid-Vt7g35OMf4ZzpSvf__PLUS__uAgZw==&bc=+&sequence=9
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: software quality assurance | automation testing | performance testing | agile methodologies | test planning | continuous integration | software testing | mobile | test cases | qa | testing tools | security testing,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/technical-quality-assurance-professional-ii-at-fiserv-inc-fiserv-ce-pvt-ltd-3-to-5-yrs-jobid-oFsGRPQh77ZzpSvf__PLUS__uAgZw==&bc=+&sequence=10
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: container platforms | ci / cd pipelines | automation techniques | programming languages | networking concepts | devops | linux | python | github | mobile | access management | windows | identity management | infrastructure,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/kubernetes-container-platform-engineer-at-fiserv-inc-fiserv-ce-pvt-ltd-5-to-8-yrs-jobid-AtfaHDBGCtBzpSvf__PLUS__uAgZw==&bc=+&sequence=11
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: net development | unit testing | agile methodologies | debugging practices | security vulnerabilities | jquery | sql | xml | devops | mvc | c# | .net developer | mobile | javascript | visual studio,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/tech-lead-software-development-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-7-to-10-yrs-jobid-6KZZgjT2SIdzpSvf__PLUS__uAgZw==&bc=+&sequence=12
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: python scripting | ci / cd integration | automation solutions | ansible proficiency | monitoring tools | information technology | devops | software engineering | api | nosql | application support | docker | database | mobile | microsoft azure | infrastructure | splunk,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/advisor-systems-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-5-to-12-yrs-jobid-J2q8TOWwBvdzpSvf__PLUS__uAgZw==&bc=+&sequence=13
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: devops methodologies | agile development | system performance | incident resolution | mentor | procedures | portal | software development | mobile | payment gateway,
+                     Puslish date: 24h,
+                     Location: Germany,
+                     More info: https://m.timesjobs.com/mobile/job-detail/solution-lead-devops-m-f-d-at-fiserv-inc-fiserv-ce-pvt-ltd-germany-5-to-10-yrs-jobid-fY8LKE94bcFzpSvf__PLUS__uAgZw==&bc=+&sequence=14
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: software development | technical leadership | agile methodologies | cloud services ( aws | azure ) | database management | c | sql | java | devops | debugging | c# | mobile,
+                     Puslish date: 24h,
+                     Location: Chennai,
+                     More info: https://m.timesjobs.com/mobile/job-detail/tech-lead-software-architecture-at-fiserv-inc-fiserv-ce-pvt-ltd-chennai-4-to-7-yrs-jobid-qMoM0At7k7BzpSvf__PLUS__uAgZw==&bc=+&sequence=15
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: cybersecurity program management | risk mitigation strategies | compliance and governance | security vulnerability assessment | ceh | cissp | technology risk | cyber security | data security | mobile | information security | cism | application security,
+                     Puslish date: 24h,
+                     Location: Singapore,
+                     More info: https://m.timesjobs.com/mobile/job-detail/cyber-security-sr-advisor-at-fiserv-inc-fiserv-ce-pvt-ltd-singapore-10-to-15-yrs-jobid-V7VODlyFf4lzpSvf__PLUS__uAgZw==&bc=+&sequence=16
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: incident management | problem resolution | data analytics | change management | itil framework | problem management | mobile | team lead | infrastructure,
+                     Puslish date: 24h,
+                     Location: Pune,  Thane,
+                     More info: https://m.timesjobs.com/mobile/job-detail/systems-engineering-lead-at-fiserv-inc-fiserv-ce-pvt-ltd-pune-thane-5-to-8-yrs-jobid-ibeKo__PLUS__48QbVzpSvf__PLUS__uAgZw==&bc=+&sequence=17
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: systems infrastructure design | performance tuning | automation tools expertise | scripting languages | hyper-v | security | linux | powershell | virtualization | vmware | mobile | aws,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/advisor-ii-systems-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-6-to-9-yrs-jobid-yHI0XTRLDjlzpSvf__PLUS__uAgZw==&bc=+&sequence=18
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: systems engineering | linux administration | cloud technologies | virtualization tools | performance tuning | hyper-v | security | powershell | vmware | mobile | infrastructure | aws,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/advisor-ii-systems-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-6-to-9-yrs-jobid-EzE21WfhIkpzpSvf__PLUS__uAgZw==&bc=+&sequence=19
+                 
+                     Company name: ebizon net info  ( p )  ltd,
+                     Required skills: magento development | mysql expertise | php programming | client management | git source control | fundamentals | database | object oriented programming | mvc | team player,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/ebizon-magento-developer-noida-ebizon-net-info-p-ltd-noida-greater-noida-2-to-5-yrs-jobid-6XF7opggKxZzpSvf__PLUS__uAgZw==&bc=+&sequence=20
+                 
+                     Company name: Career Progress Consultants,
+                     Required skills: react | js development | net core integration | sql database management | c# programming language | code review practices | infrastructure engineering | react.js | security | git | senior software developer | devops | web development | api | rest | project delivery | .net,
+                     Puslish date: 24h,
+                     Location: Canada,
+                     More info: https://m.timesjobs.com/mobile/job-detail/senior-software-developer-career-progress-consultants-canada-6-to-9-yrs-jobid-2lhWX__SLASH__nFXelzpSvf__PLUS__uAgZw==&bc=+&sequence=21
+                 
+                     Company name: Career Progress Consultants,
+                     Required skills: c development | object oriented programming | code maintenance | problem solving | fundamentals | git | devops | games | software engineer | software engineering | api | c# | cli | rest | windows | visual studio | xaml | infrastructure | project delivery,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/software-engineer-i-career-progress-consultants-1-to-4-yrs-jobid-58JOnQQblb1zpSvf__PLUS__uAgZw==&bc=+&sequence=22
+                 
+                     Company name: Career Progress Consultants,
+                     Required skills: project management | sales support | data analysis | hubspot proficiency | customer service | pmo | crm | professional services | infrastructure | project delivery,
+                     Puslish date: 24h,
+                     Location: Canada,
+                     More info: https://m.timesjobs.com/mobile/job-detail/project-and-sales-support-analyst-ii-career-progress-consultants-canada-3-to-5-yrs-jobid-VWXDulCXwChzpSvf__PLUS__uAgZw==&bc=+&sequence=23
+                 
+                     Company name: arista infotech,
+                     Required skills: front end development | html | css | javascript | bootstrap & responsive design | angularjs framework | wordpress | ajax | react.js | json | mobile,
+                     Puslish date: 24h,
+                     Location: Nagpur,
+                     More info: https://m.timesjobs.com/mobile/job-detail/front-end-developer-arista-infotech-nagpur-3-to-6-yrs-jobid-7TSpOHuj__SLASH__4ZzpSvf__PLUS__uAgZw==&bc=+&sequence=24
+                 
+                     Company name: ap moller-maersk shipping,
+                     Required skills: data entry accuracy | process mapping | data quality management | kpi tracking | testing | case management | individual contributor | e2e,
+                     Puslish date: 24h,
+                     Location: Chennai,
+                     More info: https://m.timesjobs.com/mobile/job-detail/mgf-otm-associate-ap-moller-maersk-shipping-chennai-2-to-3-yrs-jobid-PhjINSqlnbJzpSvf__PLUS__uAgZw==&bc=+&sequence=25
+                 
+                     Company name: Team Management Services,
+                     Required skills: java | jboss | python | unix | devops,
+                     Puslish date: 24h,
+                     Location: Mumbai,  Navi Mumbai,  Thane,
+                     More info: https://m.timesjobs.com/mobile/job-detail/senior-implementation-specialist-team-management-services-mumbai-navi-mumbai-thane-7-to-12-yrs-jobid-Axvkqf1PPiFzpSvf__PLUS__uAgZw==&bc=+&sequence=1
+                 
+                     Company name: LTIMindtree Ltd.,
+                     Required skills: solidworks | python scripting,
+                     Puslish date: 24h,
+                     Location: Delhi,  Delhi/NCR,  Kolkata,  Noida/Greater Noida,  Coimbatore,
+                     More info: https://m.timesjobs.com/mobile/job-detail/python-developer-ltimindtree-ltd-delhi-delhi-ncr-kolkata-noida-greater-noida-coimbatore-3-to-6-yrs-jobid-h9RDXUWeexVzpSvf__PLUS__uAgZw==&bc=+&sequence=2
+                 
+                     Company name: LTIMindtree Ltd.,
+                     Required skills: solidworks | python scripting,
+                     Puslish date: 24h,
+                     Location: Bengaluru / Bangalore,  Chennai,  Hyderabad/Secunderabad,  Mumbai,  Pune,
+                     More info: https://m.timesjobs.com/mobile/job-detail/python-developer-ltimindtree-ltd-bengaluru-bangalore-chennai-hyderabad-secunderabad-mumbai-pune-3-to-6-yrs-jobid-DnueTiAmzX5zpSvf__PLUS__uAgZw==&bc=+&sequence=3
+                 
+                     Company name: LTIMindtree Ltd.,
+                     Required skills: python developer | microsoft office,
+                     Puslish date: 24h,
+                     Location: Bengaluru / Bangalore,  Chennai,  Hyderabad/Secunderabad,  Mumbai,  Pune,
+                     More info: https://m.timesjobs.com/mobile/job-detail/python-developer-ltimindtree-ltd-bengaluru-bangalore-chennai-hyderabad-secunderabad-mumbai-pune-3-to-6-yrs-jobid-tpcc9qIdhYBzpSvf__PLUS__uAgZw==&bc=+&sequence=4
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: software development | c# programming | regulatory compliance | ci / cd practices | problem solving | xml | github | javascript | .net | software developer | soap | sql | security | fx | mobile | infrastructure,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/technical-lead-software-developer-at-fiserv-inc-fiserv-ce-pvt-ltd-12-to-15-yrs-jobid-lhAFZcJy8qZzpSvf__PLUS__uAgZw==&bc=+&sequence=5
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: splunk query optimization | monitoring dashboard development | performance engineering practices | software development scripting | onboarding cloud applications | information technology | rest | mobile,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/systems-engineer-advisor-ii-splunk-at-fiserv-inc-fiserv-ce-pvt-ltd-6-to-10-yrs-jobid-zWu4NucgPTdzpSvf__PLUS__uAgZw==&bc=+&sequence=6
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: api integrations | project management | technical troubleshooting | client liaison | web services | sql | java | html | perl | c# | mobile | ruby | php | soap,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/api-integrations-analyst-at-fiserv-inc-fiserv-ce-pvt-ltd-3-to-5-yrs-jobid-1opNY1ExtJhzpSvf__PLUS__uAgZw==&bc=+&sequence=7
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: cloud architecture | net development | sql server management | microservices transition | containerization technologies | c# | mobile | microsoft azure | infrastructure | .net,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/senior-solutions-architect-net-azure-at-fiserv-inc-fiserv-ce-pvt-ltd-10-to-13-yrs-jobid-lrEIti__PLUS__Jaj5zpSvf__PLUS__uAgZw==&bc=+&sequence=8
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: software architecture | technology integration | software solution design | cloud platforms | microservices architecture | c# | python | mobile | docker | security | java,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/software-architecture-advisor-ii-at-fiserv-inc-fiserv-ce-pvt-ltd-6-to-9-yrs-jobid-Vt7g35OMf4ZzpSvf__PLUS__uAgZw==&bc=+&sequence=9
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: software quality assurance | automation testing | performance testing | agile methodologies | test planning | continuous integration | software testing | mobile | test cases | qa | testing tools | security testing,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/technical-quality-assurance-professional-ii-at-fiserv-inc-fiserv-ce-pvt-ltd-3-to-5-yrs-jobid-oFsGRPQh77ZzpSvf__PLUS__uAgZw==&bc=+&sequence=10
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: container platforms | ci / cd pipelines | automation techniques | programming languages | networking concepts | devops | linux | python | github | mobile | access management | windows | identity management | infrastructure,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/kubernetes-container-platform-engineer-at-fiserv-inc-fiserv-ce-pvt-ltd-5-to-8-yrs-jobid-AtfaHDBGCtBzpSvf__PLUS__uAgZw==&bc=+&sequence=11
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: net development | unit testing | agile methodologies | debugging practices | security vulnerabilities | jquery | sql | xml | devops | mvc | c# | .net developer | mobile | javascript | visual studio,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/tech-lead-software-development-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-7-to-10-yrs-jobid-6KZZgjT2SIdzpSvf__PLUS__uAgZw==&bc=+&sequence=12
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: python scripting | ci / cd integration | automation solutions | ansible proficiency | monitoring tools | information technology | devops | software engineering | api | nosql | application support | docker | database | mobile | microsoft azure | infrastructure | splunk,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/advisor-systems-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-5-to-12-yrs-jobid-J2q8TOWwBvdzpSvf__PLUS__uAgZw==&bc=+&sequence=13
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: devops methodologies | agile development | system performance | incident resolution | mentor | procedures | portal | software development | mobile | payment gateway,
+                     Puslish date: 24h,
+                     Location: Germany,
+                     More info: https://m.timesjobs.com/mobile/job-detail/solution-lead-devops-m-f-d-at-fiserv-inc-fiserv-ce-pvt-ltd-germany-5-to-10-yrs-jobid-fY8LKE94bcFzpSvf__PLUS__uAgZw==&bc=+&sequence=14
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: software development | technical leadership | agile methodologies | cloud services ( aws | azure ) | database management | c | sql | java | devops | debugging | c# | mobile,
+                     Puslish date: 24h,
+                     Location: Chennai,
+                     More info: https://m.timesjobs.com/mobile/job-detail/tech-lead-software-architecture-at-fiserv-inc-fiserv-ce-pvt-ltd-chennai-4-to-7-yrs-jobid-qMoM0At7k7BzpSvf__PLUS__uAgZw==&bc=+&sequence=15
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: cybersecurity program management | risk mitigation strategies | compliance and governance | security vulnerability assessment | ceh | cissp | technology risk | cyber security | data security | mobile | information security | cism | application security,
+                     Puslish date: 24h,
+                     Location: Singapore,
+                     More info: https://m.timesjobs.com/mobile/job-detail/cyber-security-sr-advisor-at-fiserv-inc-fiserv-ce-pvt-ltd-singapore-10-to-15-yrs-jobid-V7VODlyFf4lzpSvf__PLUS__uAgZw==&bc=+&sequence=16
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: incident management | problem resolution | data analytics | change management | itil framework | problem management | mobile | team lead | infrastructure,
+                     Puslish date: 24h,
+                     Location: Pune,  Thane,
+                     More info: https://m.timesjobs.com/mobile/job-detail/systems-engineering-lead-at-fiserv-inc-fiserv-ce-pvt-ltd-pune-thane-5-to-8-yrs-jobid-ibeKo__PLUS__48QbVzpSvf__PLUS__uAgZw==&bc=+&sequence=17
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: systems infrastructure design | performance tuning | automation tools expertise | scripting languages | hyper-v | security | linux | powershell | virtualization | vmware | mobile | aws,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/advisor-ii-systems-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-6-to-9-yrs-jobid-yHI0XTRLDjlzpSvf__PLUS__uAgZw==&bc=+&sequence=18
+                 
+                     Company name: fiserv ce pvt ltd,
+                     Required skills: systems engineering | linux administration | cloud technologies | virtualization tools | performance tuning | hyper-v | security | powershell | vmware | mobile | infrastructure | aws,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/advisor-ii-systems-engineering-at-fiserv-inc-fiserv-ce-pvt-ltd-noida-greater-noida-6-to-9-yrs-jobid-EzE21WfhIkpzpSvf__PLUS__uAgZw==&bc=+&sequence=19
+                 
+                     Company name: ebizon net info  ( p )  ltd,
+                     Required skills: magento development | mysql expertise | php programming | client management | git source control | fundamentals | database | object oriented programming | mvc | team player,
+                     Puslish date: 24h,
+                     Location: Noida/Greater Noida,
+                     More info: https://m.timesjobs.com/mobile/job-detail/ebizon-magento-developer-noida-ebizon-net-info-p-ltd-noida-greater-noida-2-to-5-yrs-jobid-6XF7opggKxZzpSvf__PLUS__uAgZw==&bc=+&sequence=20
+                 
+                     Company name: Career Progress Consultants,
+                     Required skills: react | js development | net core integration | sql database management | c# programming language | code review practices | infrastructure engineering | react.js | security | git | senior software developer | devops | web development | api | rest | project delivery | .net,
+                     Puslish date: 24h,
+                     Location: Canada,
+                     More info: https://m.timesjobs.com/mobile/job-detail/senior-software-developer-career-progress-consultants-canada-6-to-9-yrs-jobid-2lhWX__SLASH__nFXelzpSvf__PLUS__uAgZw==&bc=+&sequence=21
+                 
+                     Company name: Career Progress Consultants,
+                     Required skills: c development | object oriented programming | code maintenance | problem solving | fundamentals | git | devops | games | software engineer | software engineering | api | c# | cli | rest | windows | visual studio | xaml | infrastructure | project delivery,
+                     Puslish date: 24h,
+                     Location: ,
+                     More info: https://m.timesjobs.com/mobile/job-detail/software-engineer-i-career-progress-consultants-1-to-4-yrs-jobid-58JOnQQblb1zpSvf__PLUS__uAgZw==&bc=+&sequence=22
+                 
+                     Company name: Career Progress Consultants,
+                     Required skills: project management | sales support | data analysis | hubspot proficiency | customer service | pmo | crm | professional services | infrastructure | project delivery,
+                     Puslish date: 24h,
+                     Location: Canada,
+                     More info: https://m.timesjobs.com/mobile/job-detail/project-and-sales-support-analyst-ii-career-progress-consultants-canada-3-to-5-yrs-jobid-VWXDulCXwChzpSvf__PLUS__uAgZw==&bc=+&sequence=23
+                 
+                     Company name: arista infotech,
+                     Required skills: front end development | html | css | javascript | bootstrap & responsive design | angularjs framework | wordpress | ajax | react.js | json | mobile,
+                     Puslish date: 24h,
+                     Location: Nagpur,
+                     More info: https://m.timesjobs.com/mobile/job-detail/front-end-developer-arista-infotech-nagpur-3-to-6-yrs-jobid-7TSpOHuj__SLASH__4ZzpSvf__PLUS__uAgZw==&bc=+&sequence=24
+                 
+                     Company name: ap moller-maersk shipping,
+                     Required skills: data entry accuracy | process mapping | data quality management | kpi tracking | testing | case management | individual contributor | e2e,
+                     Puslish date: 24h,
+                     Location: Chennai,
+                     More info: https://m.timesjobs.com/mobile/job-detail/mgf-otm-associate-ap-moller-maersk-shipping-chennai-2-to-3-yrs-jobid-PhjINSqlnbJzpSvf__PLUS__uAgZw==&bc=+&sequence=25
+                 
